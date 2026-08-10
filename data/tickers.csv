@@ -1,0 +1,57 @@
+ticker,name,sector
+MSFT,Microsoft,Tech
+GOOGL,Alphabet,Tech
+META,Meta Platforms,Tech
+ADBE,Adobe,Tech
+NFLX,Netflix,Tech
+UBER,Uber Technologies,Tech
+PLTR,Palantir,Tech
+ETSY,Etsy,Tech
+PINS,Pinterest,Tech
+SNAP,Snap,Tech
+ROKU,Roku,Tech
+RBLX,Roblox,Tech
+ZM,Zoom,Tech
+DOCU,DocuSign,Tech
+JPM,JPMorgan Chase,Financials
+BAC,Bank of America,Financials
+C,Citigroup,Financials
+GS,Goldman Sachs,Financials
+WFC,Wells Fargo,Financials
+V,Visa,Financials
+PYPL,PayPal,Financials
+SQ,Block,Financials
+COIN,Coinbase,Financials
+HOOD,Robinhood,Financials
+SOFI,SoFi Technologies,Financials
+RKT,Rocket Companies,Financials
+JNJ,Johnson & Johnson,Healthcare
+PFE,Pfizer,Healthcare
+ABBV,AbbVie,Healthcare
+UNH,UnitedHealth Group,Healthcare
+HCA,HCA Healthcare,Healthcare
+MRNA,Moderna,Healthcare
+WBA,Walgreens Boots Alliance,Healthcare
+CPRX,Catalyst Pharmaceuticals,Healthcare
+WMT,Walmart,Consumer
+COST,Costco,Consumer
+TGT,Target,Consumer
+NKE,Nike,Consumer
+KO,Coca-Cola,Consumer
+PEP,PepsiCo,Consumer
+SBUX,Starbucks,Consumer
+DIS,Walt Disney,Consumer
+MGM,MGM Resorts,Consumer
+CCL,Carnival,Consumer
+DAL,Delta Air Lines,Transport
+UAL,United Airlines,Transport
+AAL,American Airlines,Transport
+FDX,FedEx,Transport
+BA,Boeing,Transport
+GM,General Motors,Transport
+F,Ford Motor,Transport
+RIVN,Rivian,Transport
+LCID,Lucid Group,Transport
+NVDA,Nvidia,Semiconductors
+AMD,Advanced Micro Devices,Semiconductors
+INTC,Intel,Semiconductors
